@@ -3,6 +3,14 @@
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas (ADS)
 - 👯 Pronouns: ele/dele
 ##
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=gustavosilva538_icon=github&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=gustavosilva538_icon=github&show_icons=true&include_all_commits=true&theme=dark)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=hieossified-second&layout=donut&langs_count=4&theme=midnight-purple)](https://github-stats-extended.vercel.app/api/top-langs?username=hieossified-second&layout=donut&langs_count=4&theme=midnight-purple)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=hieossified-second&repo=hieossified-second/Projeto-Banco-simples&description_lines_count=1&theme=midnight-purple)](https://github.com/hieossified-second/Projeto-Banco-simples)
+
+
 ### 🤖 Linguagens em Aprendizado
 <div style="display: inline_block"><br>
   <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">

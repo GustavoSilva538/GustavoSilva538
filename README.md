@@ -36,7 +36,7 @@
   <a href="https://www.instagram.com/gustavo.wc7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gustavosilva76887@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-silva-b95812438" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://drive.google.com/file/d/1dGC-86Ap9HMBwndcBu6l4CgnxoELqM6-/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/1Ox5wHPpk0jKRbIz6cRS1zn4i4qunw4j1/view?usp=sharing">
     <img alt="Curriculo" src="https://img.shields.io/badge/Curriculo-181717?style=for-the-badge&logo=readthedocs&logoColor=white" />
   </a>
 </div>

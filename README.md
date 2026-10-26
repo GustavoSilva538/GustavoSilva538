@@ -1,44 +1,54 @@
-## Hello! I'm Gustavo Silva
+# Olá, eu sou o Gustavo Silva! 👋
 
-- 🌱 Studying Systems Analysis and Development (ADS)
-##
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no Senac Santo Amaro (2º Semestre).
+🎯 Buscando minha primeira oportunidade de estágio em desenvolvimento **Back-end** ou **Full-stack**.
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=GustavoSilva538&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github-stats-extended.vercel.app/api?username=GustavoSilva538&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight)
+### 👨‍💻 Sobre mim
+- 💻 Focado em construir aplicações eficientes aplicando lógica algorítmica, *Clean Code* e boas práticas.
+- 🚀 Atualmente desenvolvendo um Sistema de Gerenciamento de Vendas utilizando **Angular**, **TypeScript** e **MongoDB**.
+- 📚 Aprofundando conhecimentos práticos em **Java**, Bancos de Dados Relacionais (**MySQL**) e NoSQL (**MongoDB**).
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=GustavoSilva538&layout=donut&langs_count=4&theme=tokyonight)](https://github-stats-extended.vercel.app/api/top-langs?username=GustavoSilva538&layout=donut&langs_count=4&theme=tokyonight)
+<br>
 
-**About Me**:
-
-### 🤖 Languages ​​in Learning
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gustavo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gustavo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gustavo-JAVA" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Gustavo-typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Gustavo-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Gustavo-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Gustavo-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-   <img align="center" alt="Gustavo-angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+### 🛠️ Tecnologias e Ferramentas
+<div align="center">
+  <img alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
+  <img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img alt="Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+  <img alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img alt="MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 </div>
 
----------------------------------------------------------------------------------------
+<br>
 
-### Commits :)
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hieossified-second/hieossified-second/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hieossified-second/hieossified-second/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hieossified-second/hieossified-second/output/github-contribution-grid-snake.svg">
-</picture>
-
-  ##
- 
-<div> 
-  <a href="https://www.instagram.com/gustavo.wc7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:gustavosilva76887@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-silva-b95812438" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://drive.google.com/file/d/1Ox5wHPpk0jKRbIz6cRS1zn4i4qunw4j1/view?usp=sharing">
-    <img alt="Curriculo" src="https://img.shields.io/badge/Curriculo-181717?style=for-the-badge&logo=readthedocs&logoColor=white" />
+### 📊 Estatísticas
+<div align="center">
+  <a href="https://github.com/GustavoSilva538">
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=GustavoSilva538&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight" />
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=GustavoSilva538&layout=donut&langs_count=4&theme=tokyonight" />
   </a>
 </div>
 
+<br>
+
+### 🐍 Commits
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hieossified-second/hieossified-second/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hieossified-second/hieossified-second/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hieossified-second/hieossified-second/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
+
+### 📫 Contato e Currículo
+<div align="center">
+  <a href="https://www.linkedin.com/in/gustavo-silva-b95812438" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:gustavosilva76887@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/gustavo.wc7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://drive.google.com/file/d/1Ox5wHPpk0jKRbIz6cRS1zn4i4qunw4j1/view?usp=sharing" target="_blank"><img alt="Curriculo" src="https://img.shields.io/badge/Acessar_Meu_Curriculo-181717?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
+</div>

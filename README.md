@@ -10,6 +10,8 @@
 
 <br>
 
+---
+
 ### 🛠️ Tecnologias e Ferramentas
 <div align="center">
   <img alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
@@ -24,6 +26,8 @@
 
 <br>
 
+---
+
 ### 📊 Estatísticas
 <div align="center">
   <a href="https://github.com/GustavoSilva538">
@@ -34,15 +38,6 @@
 
 <br>
 
-### 🐍 Commits
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hieossified-second/hieossified-second/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hieossified-second/hieossified-second/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hieossified-second/hieossified-second/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
 ---
 
 ### 📫 Contato e Currículo
@@ -52,3 +47,16 @@
   <a href="https://www.instagram.com/gustavo.wc7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://drive.google.com/file/d/1Ox5wHPpk0jKRbIz6cRS1zn4i4qunw4j1/view?usp=sharing" target="_blank"><img alt="Curriculo" src="https://img.shields.io/badge/Acessar_Meu_Curriculo-181717?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
 </div>
+
+---
+
+### 🐍 Commits
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hieossified-second/hieossified-second/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hieossified-second/hieossified-second/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hieossified-second/hieossified-second/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+

@@ -1,6 +1,6 @@
 # Olá, eu sou o Gustavo Silva! 👋
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no Senac Santo Amaro (2º Semestre).
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas (ADS)** no Senac Santo Amaro (2º Semestre). <br>
 🎯 Buscando minha primeira oportunidade de estágio em desenvolvimento **Back-end** ou **Full-stack**.
 
 ### 👨‍💻 Sobre mim

@@ -42,9 +42,9 @@
 
 ### 📫 Contato e Currículo
 <div align="center">
-  <a href="https://www.linkedin.com/in/gustavo-silva-b95812438" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:gustavosilva76887@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/gustavo.wc7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gustavo-silva-b95812438" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a> 
+  <a href="mailto:gustavosilva76887@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.instagram.com/gustavo.wc7/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
   <a href="https://drive.google.com/file/d/1Ox5wHPpk0jKRbIz6cRS1zn4i4qunw4j1/view?usp=sharing" target="_blank"><img alt="Curriculo" src="https://img.shields.io/badge/Acessar_Meu_Curriculo-181717?style=for-the-badge&logo=readdotcv&logoColor=white" /></a>
 </div>
 
@@ -58,5 +58,3 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hieossified-second/hieossified-second/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-

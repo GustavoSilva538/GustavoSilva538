@@ -14,16 +14,17 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 <div align="center">
-  <img alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img alt="TypeScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-  <img alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img alt="Angular" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
-  <img alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img alt="MongoDB" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img alt="GitHub" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img alt="Java" height="40" src="https://skillicons.dev/icons?i=java">
+  <img alt="TypeScript" height="40" src="https://skillicons.dev/icons?i=ts">
+  <img alt="JavaScript" height="40" src="https://skillicons.dev/icons?i=js">
+  <img alt="Angular" height="40" src="https://skillicons.dev/icons?i=angular">
+  <img alt="HTML5" height="40" src="https://skillicons.dev/icons?i=html">
+  <img alt="CSS3" height="40" src="https://skillicons.dev/icons?i=css">
+  <img alt="MySQL" height="40" src="https://skillicons.dev/icons?i=mysql">
+  <img alt="MongoDB" height="40" src="https://skillicons.dev/icons?i=mongo">
+  <img alt="Figma" height="40" src="https://skillicons.dev/icons?i=figma">
+  <img alt="GitHub" height="40" src="https://skillicons.dev/icons?i=github">
+  <img alt="Git" height="40" src="https://skillicons.dev/icons?i=git">
 </div>
 
 <br>

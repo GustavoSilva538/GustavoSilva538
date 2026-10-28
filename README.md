@@ -34,8 +34,8 @@
 ### 📊 Estatísticas
 <div align="center">
   <a href="https://github.com/GustavoSilva538">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=GustavoSilva538&rank_icon=github&show_icons=true&include_all_commits=true&theme=tokyonight" />
-    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=GustavoSilva538&layout=donut&langs_count=4&theme=tokyonight" />
+    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=GustavoSilva538&rank_icon=github&show_icons=true&include_all_commits=true&theme=github_dark" />
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=GustavoSilva538&layout=donut&langs_count=4&theme=github_dark" />
   </a>
 </div>
 
